@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://path-to-your-chosen-logo.png" width="220" />
+  <img src="https://raw.githubusercontent.com/Infinity-Botz/Infinity-Botz/main/assets/infinity%20banner.png" width="100%" alt="Infinity Botz Banner" />
+
+  <br>
 
   # 🌌 Iɴғɪɴɪᴛʏ Bᴏᴛᴢ
   
